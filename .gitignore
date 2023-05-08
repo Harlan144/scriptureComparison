@@ -1,0 +1,9 @@
+similarityAnalysisToBible/tensor.pt
+similarityAnalysisToBible/bomTensor.pt
+pastCode/
+parseScriptsOLD/
+combineWorksDFOLD.py
+standardWorksOLD/
+standardWorksDFOLD/
+quranSimilarity/allWorksWithQuranTensor.pt
+quranSimilarity/allWorksSimilarVersesDepth100
